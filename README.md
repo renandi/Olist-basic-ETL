@@ -14,7 +14,7 @@ O objetivo deste script é automatizar o processo de **ETL (Extract, Transform, 
 
 ---
 
-## 🚀 Guia de Execução
+## Guia de Execução
 
 Siga os passos abaixo para rodar o projeto de limpeza de dados em sua máquina local. Como o projeto utiliza exclusivamente a biblioteca padrão do Python, **não é necessário instalar dependências externas**.
 
